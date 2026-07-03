@@ -122,16 +122,6 @@ and booking workflows.
 - 💻 Built Full Stack and AI-powered applications
 - 🚀 Consistent Coding & Learning Journey
 
-
----
-
-## 📊 GitHub Stats
-
-![Daisy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daisyjosh&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daisyjosh&layout=compact)
-
-
 ---
 
 ## 🌐 Coding Profiles
